@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UMD Dining Hall Search</title>
+    <link rel="stylesheet" href="/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=BBH+Hegarty&family=Bungee&family=Cossette+Titre:wght@400;700&family=DM+Serif+Display:ital@0;1&family=Epunda+Sans:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+    <script src="index.js" defer></script>
+</head>
+<body>
+    <header>SEARCH FOR FOOD AT ANY UMD DINING HALL!</header>
+    <div class="main-container">
+        <form class="inputForm" action="">
+            <span>Search food: <input type="text" id="kwInput" size="50" name="foodName"></span>
+            <button type="submit">Search</button>
+        </form>
+        <h3>Search Results</h3>
+        <div id="display"></div> <!--sorry this is kind of badly named lol-->
+        <div id="showTotalsContainer"></div>
+    </div>
+    <footer>
+        <button onclick="getTotalNutrition()">Show total nutrition</button>
+        <button onclick="resetSelectedFoods()">Reset Selected Foods</button>
+    </footer>
+</body>
+</html>
