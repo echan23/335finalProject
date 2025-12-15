@@ -10,4 +10,4 @@ APIs Information - Custom API I built for personal use, https://bsitu5ocgb.execu
 
 Contact Email - edwchan7529@gmail.com
 
-Deployed App Link - Link to the online deployment of the app (e.g., link to Render entry).
+Deployed App Link - Link to the online deployment of the app (e.g., link to Render entry). - https://three35finalproject-fsu6.onrender.com
