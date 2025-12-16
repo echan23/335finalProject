@@ -1,8 +1,8 @@
-Who Submitted the Project in the Submit Server - Name and directory ID of the group member that uploaded the application to the submit server. - Christopher Nam, cnam2653
+Who Submitted the Project in the Submit Server - Benjamin Li (bli1003)
 
 Group Members - Edward Chan (echan23), Christopher Nam (cnam2653), Benjamin Li (bli1003)
 
-App Description - This app lets you search for foods at the UMD dining halls and view the nutrition facts. You can build a "meal" of different items to calculate nutrition totals for different combinations of foods.
+App Description - This app lets you search for foods at the UMD dining halls and view the nutrition facts. You can build a "meal" of different items to calculate nutrition totals for different combinations of foods. The api scrapes from the UMD dining services website regularly but will not work once school closes and the dining hall shuts down. The youtube video will demo the app in case it stops working during the grading period.
 
 YouTube Video Demo Link - https://youtu.be/7jv97uZhMDk
 
