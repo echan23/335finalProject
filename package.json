@@ -1,16 +1,24 @@
 {
   "name": "335finalproject",
   "version": "1.0.0",
-  "description": "",
+  "description": "Who Submitted the Project in the Submit Server - Name and directory ID of the group member that uploaded the application to the submit server. - Christopher Nam, cnam2653",
+  "keywords": [],
+  "homepage": "https://github.com/echan23/335finalProject#readme",
+  "bugs": {
+    "url": "https://github.com/echan23/335finalProject/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/echan23/335finalProject.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
