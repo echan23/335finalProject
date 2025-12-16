@@ -1,6 +1,6 @@
 Who Submitted the Project in the Submit Server - Name and directory ID of the group member that uploaded the application to the submit server. - Christopher Nam, cnam2653
 
-Group Members - Edward Chan (echan23), Christopher Nam (cnam2653)
+Group Members - Edward Chan (echan23), Christopher Nam (cnam2653), Benjamin Li (bli1003)
 
 App Description - This app lets you search for foods at the UMD dining halls and view the nutrition facts. You can build a "meal" of different items to calculate nutrition totals for different combinations of foods.
 
