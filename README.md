@@ -6,7 +6,7 @@ App Description - This app lets you search for foods at the UMD dining halls and
 
 YouTube Video Demo Link - https://youtu.be/7jv97uZhMDk
 
-APIs Information - Custom API I built for personal use, https://bsitu5ocgb.execute-api.us-east-1.amazonaws.com/dev/api/food
+APIs Information - Custom API I built for personal use
 
 Contact Email - edwchan7529@gmail.com
 
